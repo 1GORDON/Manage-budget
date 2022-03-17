@@ -11,5 +11,5 @@ Rails.application.routes.draw do
   resources :users, only: [:index]
   resources :catagories, only: [:index]
   resources :transactions, only: [:index]
-  resources :manage_budget, only: [:index]#splash screen
+  resources :splash, only: [:index]#splash screen
 end
