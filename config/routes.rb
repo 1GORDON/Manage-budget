@@ -7,9 +7,9 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
-  # root 'users#index'
+  root 'splash#index'
   resources :users, only: [:index]
   resources :catagories, only: [:index]
   resources :transactions, only: [:index]
-  resources :splash, only: [:index] # splash screen
+  resources :splash, only: [:index] # splash screen or home page
 end
