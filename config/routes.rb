@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Rails.application.routes.draw do
   # devise_for :users
   # devise_scope :users do
@@ -11,5 +13,5 @@ Rails.application.routes.draw do
   resources :users, only: [:index]
   resources :catagories, only: [:index]
   resources :transactions, only: [:index]
-  resources :splash, only: [:index]#splash screen
+  resources :splash, only: [:index] # splash screen
 end

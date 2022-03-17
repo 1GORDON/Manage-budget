@@ -1,4 +1,5 @@
+# frozen_string_literal: true
+
 class SplashController < ActionController::Base
-    def index
-    end
+  def index; end
 end
