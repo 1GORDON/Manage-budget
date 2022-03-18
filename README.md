@@ -7,6 +7,10 @@
 In this project, I achieved the following;
 This is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
+# Presentation
+
+[Live-demo](https://www.loom.com/share/8f7056e2f6184b8b8d7fc76006bc6b6a)
+
 ## Built With
 
 - Ruby
