@@ -30,7 +30,6 @@ To get a local copy up and running follow these simple example steps.
 
 - Copy Repo Link
 
-```
 https://github.com/1GORDON/Manage-budget.git
 ```
 - Get the directory that you want to clone the repository.
