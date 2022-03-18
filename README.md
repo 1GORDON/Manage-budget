@@ -18,7 +18,6 @@ This is a mobile web application where you can manage your budget: you have a li
 ## Built With
 
 - Ruby
-- Ruby on Rails
 - Git
 - Postgresql
 - RSpec
