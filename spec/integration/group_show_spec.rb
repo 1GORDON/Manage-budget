@@ -3,11 +3,11 @@ require 'rails_helper'
 RSpec.describe 'Group Index', type: :feature do
   describe 'Group' do
     before(:each) do
-      @user1 = User.create! name: 'Justin', password: '000000', email: 'justin@gmail.com'
+      @user1 = User.create! name: 'Gordon', password: 'godanah', email: 'gbuldie@gmail.com'
       @group = @user1.groups.create! name: 'HBO', icon: 'icon'
       visit new_user_session_path
-      fill_in('Email', with: 'justin@gmail.com')
-      fill_in('Password', with: '000000')
+      fill_in('Email', with: 'gbuldie@gmail.com')
+      fill_in('Password', with: 'godanah')
       click_button('LOG IN')
       visit root_path
       click_on('HBO')

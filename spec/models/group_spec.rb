@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe Group, type: :model do
   before(:each) do
-    @user1 = User.create! name: 'Justin', password: '000000', email: 'justin@gmail.com'
+    @user1 = User.create! name: 'Gordon', password: 'godanah', email: 'gbuldie@gmail.com'
     @group = @user1.groups.create! name: 'HBO', icon: 'icon'
   end
 
