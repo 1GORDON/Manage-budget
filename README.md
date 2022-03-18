@@ -9,7 +9,11 @@ This is a mobile web application where you can manage your budget: you have a li
 
 # Presentation
 
-[Live-demo](https://www.loom.com/share/8f7056e2f6184b8b8d7fc76006bc6b6a)
+- [Presentation-video](https://www.loom.com/share/8f7056e2f6184b8b8d7fc76006bc6b6a)
+
+# Live-demo
+
+- [Live-demo](https://fast-scrubland-47961.herokuapp.com/)
 
 ## Built With
 
