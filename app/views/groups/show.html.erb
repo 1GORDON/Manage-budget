@@ -1,7 +1,7 @@
 <%= render "partials/nav" %>
 <div class="credit">
   <h3>Gift Credit</h3>
-  <h3>$<%=Group.total(@group.id)%>.00</h3>
+  <h3>$<%=@group.self_total(@group.id)%>.00</h3>
 </div>
 
 <section class="main">

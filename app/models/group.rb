@@ -8,7 +8,7 @@ class Group < ApplicationRecord
     attributes['created_at'].strftime('%d %b %Y')
   end
 
-  def self.total(id)
+  def self_total(id)
     group = Group.find(id)
     relations = group.relations
     @total = 0
