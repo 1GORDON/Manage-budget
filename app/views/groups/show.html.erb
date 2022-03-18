@@ -9,7 +9,7 @@
 <%@relations.each do |relation|%>
   <%entity = Entity.find(relation.entity_id)%>
   <div class="category">
-    <img src=<%=@group.icon%> alt="icon">
+    <img src=<%=@group.icon%> alt="/app/assets/images/icon">
     
     <div class="flex">
       <h3><%=entity.name%></h3>

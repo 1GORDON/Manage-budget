@@ -55,7 +55,7 @@
  }
  
  .box h1 {
-   color: #3778c2;
+   color: #5fb523;
    font-weight: bolder;
    font-size: 2em;
    align-self: center;
@@ -70,14 +70,14 @@
    display: block;
    width: 100%;
    color: white;
-   background-color: #3778c2;
+   background-color: #5fb523;
    padding: 12px;
    border-radius: 0.5em;
  }
  
  .login a,
  .signup a {
-   color: #3778c2;
+   color: #5fb523;
  }
  
  .signup {
@@ -88,7 +88,7 @@
    display: flex;
    justify-content: space-between;
    padding-inline: 10px;
-   background-color: #3778c2;
+   background-color: #5fb523;
  }
  
  .navbar-brand {
@@ -141,6 +141,6 @@
  }
  
  .btn {
-   background-color: #5fb523;
-   border: 1px solid #5fb523;
+   background-color: #3778c2;
+   border: 1px solid #3778c2;
  }
