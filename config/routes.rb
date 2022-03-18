@@ -16,4 +16,5 @@ Rails.application.routes.draw do
     resources :relations, only: [:create]
   end
   resources :groups, only: [:index, :show, :new, :create, :destroy]
+
 end
