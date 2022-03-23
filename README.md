@@ -72,7 +72,7 @@ bundle install
 
 - GitHub: [IGORDON](https://github.com/1GORDON)
 - Twitter: [@TinyefuzaG](https://twitter.com/GTinyefuza) 
-- LinkedIn: [Tinyefuza-Gordon) Chang](https://www.linkedin.com/in/tinyefuza-gordon/)
+- LinkedIn: [Tinyefuza-Gordon](https://www.linkedin.com/in/tinyefuza-gordon/)
 
 
 
